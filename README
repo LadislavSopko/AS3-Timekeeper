@@ -1,0 +1,16 @@
+This timekeeper is based on the Timekeeper class written by John Dalziel, more info
+on which at http://www.computus.org/journal/?p=25
+
+My version of Timekeeper functions like a Timer; unlike the Computus Timekeeper,
+it only starts and stops when it is told to. Some functions are provided to improve
+its accessibility to calling scripts without overloading it with unnecessary
+functionality. I also hope that the more clearly presented script, and removal of
+properties that served no purpose in the original Timekeeper, makes life easier for
+anyone interested in extending the class further.
+
+Other than that, this is basically an update to Dalziel's original Timekeeper.
+Credit where credit's due. In re-programming his Timekeeper I came to understand
+more about how it (and, by proxy, EventDispatcher) works, so thanks for that too.
+
+Aneurin "Anny" Barker Snook, http://anny.fm
+(Rehosted on github 06/06/2012, originally coded 24/02/09)
